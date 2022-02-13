@@ -340,7 +340,7 @@ def menu():
 	print" \033[1;92m[\033[1;97m04\033[1;92m] \033[1;97mCrack dari member group"
 	print" \033[1;92m[\033[1;97m05\033[1;92m] \033[1;97mCrack ID random"
 	print" \033[1;92m[\033[1;97m06\033[1;92m] \033[1;97mCek hasil crack"
-	print" \033[1;92m[\033[1;97m07\033[1;92m] \033[1;97mCek option sesi account facebook"
+	print" \033[1;92m[\033[1;97m07\033[1;92m] \033[1;97mCekphoint detector"
 	print" \033[1;92m[\033[1;97m08\033[1;92m] \033[1;97mSetting USER AGENT"
 	print" \033[1;92m[\033[1;97m09\033[1;92m] \033[1;97mCek ID account facebook"
 	print" \033[1;97m[\033[1;92m00\033[1;97m] \033[1;92mRemove TOKEN/COOKIE"
